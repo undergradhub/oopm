@@ -1,5 +1,5 @@
 # microprocessor
-OOPM in java Programs comps 
+OOPM in java Programs COMPS department
 
 
 ## Contributions Notice
